@@ -1,0 +1,37 @@
+==========================================
+gpu_id:0
+s:0
+t:1
+max_epoch:20
+batch_size:64
+worker:4
+dset:ogbg-molbbbp
+lr:0.01
+net:resnet50
+seed:2020
+bottleneck:256
+epsilon:1e-05
+layer:wn
+classifier:bn
+smooth:0.1
+output:ckps_test
+da:uda
+trte:val
+gnn_dim:300
+class_num:2
+s_dset_path:./data/ogbg-molbbbp/train_list.txt
+test_dset_path:./data/ogbg-molbbbp/test_list.txt
+output_dir_src:ckps_test\uda\ogbg-molbbbp\T
+name_src:T
+out_file:<_io.TextIOWrapper name='ckps_test\\uda\\ogbg-molbbbp\\T\\log.txt' mode='w' encoding='cp936'>
+
+Task: T, Iter:52/520; ROC-AUC = 51.81%
+Task: T, Iter:104/520; ROC-AUC = 65.88%
+Task: T, Iter:156/520; ROC-AUC = 62.34%
+Task: T, Iter:208/520; ROC-AUC = 66.11%
+Task: T, Iter:260/520; ROC-AUC = 65.65%
+Task: T, Iter:312/520; ROC-AUC = 65.56%
+Task: T, Iter:364/520; ROC-AUC = 64.27%
+Task: T, Iter:416/520; ROC-AUC = 63.19%
+Task: T, Iter:468/520; ROC-AUC = 63.70%
+Task: T, Iter:520/520; ROC-AUC = 63.47%

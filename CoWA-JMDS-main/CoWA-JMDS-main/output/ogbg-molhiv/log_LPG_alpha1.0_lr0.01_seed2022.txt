@@ -1,0 +1,16 @@
+Model Prediction : ROC-AUC = 0.6779
+Model Prediction : ROC-AUC = 0.6311
+Model Prediction : ROC-AUC = 0.6231
+Model Prediction : ROC-AUC = 0.6293
+Model Prediction : ROC-AUC = 0.6626
+Model Prediction : ROC-AUC = 0.6611
+Model Prediction : ROC-AUC = 0.6573
+Model Prediction : ROC-AUC = 0.6514
+Model Prediction : ROC-AUC = 0.6602
+Model Prediction : ROC-AUC = 0.6660
+Model Prediction : ROC-AUC = 0.6636
+Model Prediction : ROC-AUC = 0.6610
+Model Prediction : ROC-AUC = 0.6612
+Model Prediction : ROC-AUC = 0.6640
+Model Prediction : ROC-AUC = 0.6622
+Model Prediction : ROC-AUC = 0.6656

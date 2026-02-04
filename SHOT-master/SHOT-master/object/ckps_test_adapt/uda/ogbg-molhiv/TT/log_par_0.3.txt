@@ -1,0 +1,69 @@
+==========================================
+gpu_id:0
+s:0
+t:1
+max_epoch:15
+interval:15
+batch_size:64
+worker:4
+dset:ogbg-molhiv
+lr:0.01
+net:resnet50
+seed:2020
+gent:True
+ent:True
+threshold:0
+cls_par:0.3
+ent_par:1.0
+lr_decay1:0.1
+lr_decay2:1.0
+bottleneck:256
+epsilon:1e-05
+layer:wn
+classifier:bn
+distance:cosine
+output:ckps_test_adapt
+output_src:ckps_test
+da:uda
+issave:True
+gnn_dim:300
+class_num:2
+s_dset_path:./data/ogbg-molhiv/train_list.txt
+t_dset_path:./data/ogbg-molhiv/test_list.txt
+test_dset_path:./data/ogbg-molhiv/test_list.txt
+output_dir_src:ckps_test\uda\ogbg-molhiv\T
+output_dir:ckps_test_adapt\uda\ogbg-molhiv\TT
+name:TT
+savename:par_0.3
+out_file:<_io.TextIOWrapper name='ckps_test_adapt\\uda\\ogbg-molhiv\\TT\\log_par_0.3.txt' mode='w' encoding='cp936'>
+
+Accuracy = 96.69% -> 92.61%
+Task: TT, Iter:65/975; ROC-AUC = 69.64%
+Accuracy = 96.72% -> 93.29%
+Task: TT, Iter:130/975; ROC-AUC = 71.04%
+Accuracy = 96.38% -> 94.68%
+Task: TT, Iter:195/975; ROC-AUC = 71.17%
+Accuracy = 96.57% -> 94.36%
+Task: TT, Iter:260/975; ROC-AUC = 70.57%
+Accuracy = 96.40% -> 94.72%
+Task: TT, Iter:325/975; ROC-AUC = 72.13%
+Accuracy = 96.60% -> 85.73%
+Task: TT, Iter:390/975; ROC-AUC = 71.58%
+Accuracy = 96.47% -> 94.72%
+Task: TT, Iter:455/975; ROC-AUC = 72.00%
+Accuracy = 96.45% -> 94.85%
+Task: TT, Iter:520/975; ROC-AUC = 70.96%
+Accuracy = 96.38% -> 94.82%
+Task: TT, Iter:585/975; ROC-AUC = 71.75%
+Accuracy = 96.38% -> 94.89%
+Task: TT, Iter:650/975; ROC-AUC = 71.72%
+Accuracy = 96.38% -> 94.80%
+Task: TT, Iter:715/975; ROC-AUC = 71.95%
+Accuracy = 96.28% -> 94.80%
+Task: TT, Iter:780/975; ROC-AUC = 70.99%
+Accuracy = 96.18% -> 94.82%
+Task: TT, Iter:845/975; ROC-AUC = 71.70%
+Accuracy = 96.18% -> 94.82%
+Task: TT, Iter:910/975; ROC-AUC = 72.61%
+Accuracy = 96.72% -> 94.24%
+Task: TT, Iter:975/975; ROC-AUC = 71.26%

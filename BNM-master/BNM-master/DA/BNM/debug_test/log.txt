@@ -1,0 +1,3 @@
+iter: 00000, transfer_loss: -0.99165, clf_loss: 0.80137
+iter: 00004, precision: 0.86871, best: 0.86871
+iter: 00009, precision: 0.20204, best: 0.86871

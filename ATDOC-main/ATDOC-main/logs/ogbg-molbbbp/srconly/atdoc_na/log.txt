@@ -1,0 +1,15 @@
+Task: ogbg-molbbbp, Iter:50; ROC-AUC = 56.01%
+Iter:100/500; Total Loss: 0.7695; Cls Loss: 0.7479
+Task: ogbg-molbbbp, Iter:100; ROC-AUC = 52.27%
+Task: ogbg-molbbbp, Iter:150; ROC-AUC = 51.80%
+Iter:200/500; Total Loss: 0.5397; Cls Loss: 0.4851
+Task: ogbg-molbbbp, Iter:200; ROC-AUC = 58.21%
+Task: ogbg-molbbbp, Iter:250; ROC-AUC = 57.80%
+Iter:300/500; Total Loss: 0.4958; Cls Loss: 0.4263
+Task: ogbg-molbbbp, Iter:300; ROC-AUC = 58.82%
+Task: ogbg-molbbbp, Iter:350; ROC-AUC = 59.38%
+Iter:400/500; Total Loss: 0.7072; Cls Loss: 0.6303
+Task: ogbg-molbbbp, Iter:400; ROC-AUC = 56.29%
+Task: ogbg-molbbbp, Iter:450; ROC-AUC = 57.56%
+Iter:500/500; Total Loss: 0.4663; Cls Loss: 0.3593
+Task: ogbg-molbbbp, Iter:500; ROC-AUC = 59.45%

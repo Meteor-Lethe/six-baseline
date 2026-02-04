@@ -1,0 +1,112 @@
+Iter:100/10280; Total Loss: 0.1735; Cls Loss: 0.1727
+Iter:200/10280; Total Loss: 0.0986; Cls Loss: 0.0973
+Iter:300/10280; Total Loss: 0.1234; Cls Loss: 0.1220
+Iter:400/10280; Total Loss: 0.2503; Cls Loss: 0.2493
+Iter:500/10280; Total Loss: 0.0897; Cls Loss: 0.0881
+Iter:600/10280; Total Loss: 0.0536; Cls Loss: 0.0499
+Iter:700/10280; Total Loss: 0.2304; Cls Loss: 0.2254
+Iter:800/10280; Total Loss: 0.4116; Cls Loss: 0.4087
+Iter:900/10280; Total Loss: 0.1742; Cls Loss: 0.1707
+Iter:1000/10280; Total Loss: 0.2503; Cls Loss: 0.2442
+Task: ogbg-molhiv, Iter:1028; ROC-AUC = 55.55%
+Iter:1100/10280; Total Loss: 0.1851; Cls Loss: 0.1798
+Iter:1200/10280; Total Loss: 0.3710; Cls Loss: 0.3675
+Iter:1300/10280; Total Loss: 0.2969; Cls Loss: 0.2932
+Iter:1400/10280; Total Loss: 0.0459; Cls Loss: 0.0413
+Iter:1500/10280; Total Loss: 0.2651; Cls Loss: 0.2618
+Iter:1600/10280; Total Loss: 0.2433; Cls Loss: 0.2381
+Iter:1700/10280; Total Loss: 0.1426; Cls Loss: 0.1358
+Iter:1800/10280; Total Loss: 0.4703; Cls Loss: 0.4618
+Iter:1900/10280; Total Loss: 0.0473; Cls Loss: 0.0387
+Iter:2000/10280; Total Loss: 0.2833; Cls Loss: 0.2752
+Task: ogbg-molhiv, Iter:2056; ROC-AUC = 51.09%
+Iter:2100/10280; Total Loss: 0.1423; Cls Loss: 0.1346
+Iter:2200/10280; Total Loss: 0.1982; Cls Loss: 0.1914
+Iter:2300/10280; Total Loss: 0.0341; Cls Loss: 0.0286
+Iter:2400/10280; Total Loss: 0.1373; Cls Loss: 0.1313
+Iter:2500/10280; Total Loss: 0.3214; Cls Loss: 0.3146
+Iter:2600/10280; Total Loss: 0.1397; Cls Loss: 0.1314
+Iter:2700/10280; Total Loss: 0.2498; Cls Loss: 0.2429
+Iter:2800/10280; Total Loss: 0.2328; Cls Loss: 0.2239
+Iter:2900/10280; Total Loss: 0.1733; Cls Loss: 0.1637
+Iter:3000/10280; Total Loss: 0.2120; Cls Loss: 0.2048
+Task: ogbg-molhiv, Iter:3084; ROC-AUC = 63.73%
+Iter:3100/10280; Total Loss: 0.0457; Cls Loss: 0.0367
+Iter:3200/10280; Total Loss: 0.0532; Cls Loss: 0.0420
+Iter:3300/10280; Total Loss: 0.0619; Cls Loss: 0.0546
+Iter:3400/10280; Total Loss: 0.0946; Cls Loss: 0.0862
+Iter:3500/10280; Total Loss: 0.2014; Cls Loss: 0.1906
+Iter:3600/10280; Total Loss: 0.0498; Cls Loss: 0.0388
+Iter:3700/10280; Total Loss: 0.3539; Cls Loss: 0.3420
+Iter:3800/10280; Total Loss: 0.1399; Cls Loss: 0.1273
+Iter:3900/10280; Total Loss: 0.0392; Cls Loss: 0.0287
+Iter:4000/10280; Total Loss: 0.1508; Cls Loss: 0.1404
+Iter:4100/10280; Total Loss: 0.2680; Cls Loss: 0.2574
+Task: ogbg-molhiv, Iter:4112; ROC-AUC = 72.04%
+Iter:4200/10280; Total Loss: 0.2212; Cls Loss: 0.2063
+Iter:4300/10280; Total Loss: 0.2813; Cls Loss: 0.2725
+Iter:4400/10280; Total Loss: 0.1187; Cls Loss: 0.1100
+Iter:4500/10280; Total Loss: 0.0392; Cls Loss: 0.0281
+Iter:4600/10280; Total Loss: 0.1065; Cls Loss: 0.0919
+Iter:4700/10280; Total Loss: 0.3646; Cls Loss: 0.3503
+Iter:4800/10280; Total Loss: 0.1441; Cls Loss: 0.1305
+Iter:4900/10280; Total Loss: 0.2624; Cls Loss: 0.2467
+Iter:5000/10280; Total Loss: 0.1079; Cls Loss: 0.0935
+Iter:5100/10280; Total Loss: 0.0348; Cls Loss: 0.0230
+Task: ogbg-molhiv, Iter:5140; ROC-AUC = 62.39%
+Iter:5200/10280; Total Loss: 0.0433; Cls Loss: 0.0306
+Iter:5300/10280; Total Loss: 0.3019; Cls Loss: 0.2877
+Iter:5400/10280; Total Loss: 0.3592; Cls Loss: 0.3454
+Iter:5500/10280; Total Loss: 0.2555; Cls Loss: 0.2403
+Iter:5600/10280; Total Loss: 0.0444; Cls Loss: 0.0291
+Iter:5700/10280; Total Loss: 0.0385; Cls Loss: 0.0246
+Iter:5800/10280; Total Loss: 0.0384; Cls Loss: 0.0241
+Iter:5900/10280; Total Loss: 0.0408; Cls Loss: 0.0263
+Iter:6000/10280; Total Loss: 0.1690; Cls Loss: 0.1547
+Iter:6100/10280; Total Loss: 0.1224; Cls Loss: 0.1083
+Task: ogbg-molhiv, Iter:6168; ROC-AUC = 63.88%
+Iter:6200/10280; Total Loss: 0.1254; Cls Loss: 0.1119
+Iter:6300/10280; Total Loss: 0.2843; Cls Loss: 0.2691
+Iter:6400/10280; Total Loss: 0.2455; Cls Loss: 0.2252
+Iter:6500/10280; Total Loss: 0.3004; Cls Loss: 0.2810
+Iter:6600/10280; Total Loss: 0.1755; Cls Loss: 0.1603
+Iter:6700/10280; Total Loss: 0.0437; Cls Loss: 0.0272
+Iter:6800/10280; Total Loss: 0.1631; Cls Loss: 0.1479
+Iter:6900/10280; Total Loss: 0.2489; Cls Loss: 0.2321
+Iter:7000/10280; Total Loss: 0.1248; Cls Loss: 0.1087
+Iter:7100/10280; Total Loss: 0.0396; Cls Loss: 0.0232
+Task: ogbg-molhiv, Iter:7196; ROC-AUC = 60.94%
+Iter:7200/10280; Total Loss: 0.3110; Cls Loss: 0.2947
+Iter:7300/10280; Total Loss: 0.1658; Cls Loss: 0.1466
+Iter:7400/10280; Total Loss: 0.1566; Cls Loss: 0.1413
+Iter:7500/10280; Total Loss: 0.0395; Cls Loss: 0.0231
+Iter:7600/10280; Total Loss: 0.0386; Cls Loss: 0.0216
+Iter:7700/10280; Total Loss: 0.0454; Cls Loss: 0.0246
+Iter:7800/10280; Total Loss: 0.1586; Cls Loss: 0.1415
+Iter:7900/10280; Total Loss: 0.0376; Cls Loss: 0.0197
+Iter:8000/10280; Total Loss: 0.0370; Cls Loss: 0.0204
+Iter:8100/10280; Total Loss: 0.1978; Cls Loss: 0.1815
+Iter:8200/10280; Total Loss: 0.1504; Cls Loss: 0.1362
+Task: ogbg-molhiv, Iter:8224; ROC-AUC = 65.72%
+Iter:8300/10280; Total Loss: 0.1697; Cls Loss: 0.1534
+Iter:8400/10280; Total Loss: 0.2687; Cls Loss: 0.2520
+Iter:8500/10280; Total Loss: 0.2905; Cls Loss: 0.2742
+Iter:8600/10280; Total Loss: 0.1840; Cls Loss: 0.1662
+Iter:8700/10280; Total Loss: 0.2869; Cls Loss: 0.2673
+Iter:8800/10280; Total Loss: 0.2539; Cls Loss: 0.2382
+Iter:8900/10280; Total Loss: 0.0443; Cls Loss: 0.0247
+Iter:9000/10280; Total Loss: 0.1442; Cls Loss: 0.1265
+Iter:9100/10280; Total Loss: 0.0351; Cls Loss: 0.0189
+Iter:9200/10280; Total Loss: 0.0457; Cls Loss: 0.0240
+Task: ogbg-molhiv, Iter:9252; ROC-AUC = 66.51%
+Iter:9300/10280; Total Loss: 0.0414; Cls Loss: 0.0221
+Iter:9400/10280; Total Loss: 0.1733; Cls Loss: 0.1557
+Iter:9500/10280; Total Loss: 0.3003; Cls Loss: 0.2813
+Iter:9600/10280; Total Loss: 0.0466; Cls Loss: 0.0244
+Iter:9700/10280; Total Loss: 0.4911; Cls Loss: 0.4729
+Iter:9800/10280; Total Loss: 0.3005; Cls Loss: 0.2786
+Iter:9900/10280; Total Loss: 0.3578; Cls Loss: 0.3383
+Iter:10000/10280; Total Loss: 0.0363; Cls Loss: 0.0196
+Iter:10100/10280; Total Loss: 0.2563; Cls Loss: 0.2400
+Iter:10200/10280; Total Loss: 0.1604; Cls Loss: 0.1395
+Task: ogbg-molhiv, Iter:10280; ROC-AUC = 68.53%

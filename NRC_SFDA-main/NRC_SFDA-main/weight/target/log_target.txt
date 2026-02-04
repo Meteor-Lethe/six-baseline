@@ -1,0 +1,15 @@
+Iter:5/75; AUC on target = 66.49%
+Iter:10/75; AUC on target = 71.54%
+Iter:15/75; AUC on target = 74.27%
+Iter:20/75; AUC on target = 74.80%
+Iter:25/75; AUC on target = 75.45%
+Iter:30/75; AUC on target = 75.81%
+Iter:35/75; AUC on target = 76.02%
+Iter:40/75; AUC on target = 76.07%
+Iter:45/75; AUC on target = 76.16%
+Iter:50/75; AUC on target = 76.04%
+Iter:55/75; AUC on target = 76.26%
+Iter:60/75; AUC on target = 76.46%
+Iter:65/75; AUC on target = 76.53%
+Iter:70/75; AUC on target = 76.46%
+Iter:75/75; AUC on target = 76.51%

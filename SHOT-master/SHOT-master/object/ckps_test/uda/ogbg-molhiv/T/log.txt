@@ -1,0 +1,37 @@
+==========================================
+gpu_id:0
+s:0
+t:1
+max_epoch:20
+batch_size:64
+worker:4
+dset:ogbg-molhiv
+lr:0.01
+net:resnet50
+seed:2020
+bottleneck:256
+epsilon:1e-05
+layer:wn
+classifier:bn
+smooth:0.1
+output:ckps_test
+da:uda
+trte:val
+gnn_dim:300
+class_num:2
+s_dset_path:./data/ogbg-molhiv/train_list.txt
+test_dset_path:./data/ogbg-molhiv/test_list.txt
+output_dir_src:ckps_test\uda\ogbg-molhiv\T
+name_src:T
+out_file:<_io.TextIOWrapper name='ckps_test\\uda\\ogbg-molhiv\\T\\log.txt' mode='w' encoding='cp936'>
+
+Task: T, Iter:1030/10300; ROC-AUC = 54.12%
+Task: T, Iter:2060/10300; ROC-AUC = 70.20%
+Task: T, Iter:3090/10300; ROC-AUC = 68.50%
+Task: T, Iter:4120/10300; ROC-AUC = 68.77%
+Task: T, Iter:5150/10300; ROC-AUC = 70.31%
+Task: T, Iter:6180/10300; ROC-AUC = 70.98%
+Task: T, Iter:7210/10300; ROC-AUC = 70.44%
+Task: T, Iter:8240/10300; ROC-AUC = 70.74%
+Task: T, Iter:9270/10300; ROC-AUC = 69.32%
+Task: T, Iter:10300/10300; ROC-AUC = 66.53%
